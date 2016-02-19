@@ -6,13 +6,13 @@ This is a sample structure for sharing SAR incident data among geographically se
 Instructions
 ------------
 
-1. (Download)[https://github.com/appalachiansearchandrescue/incident-data-template/archive/master.zip] a copy of this repository and extract it to your organization's incident DropBox or other shared folder.
+1. [Download](https://github.com/appalachiansearchandrescue/incident-data-template/archive/master.zip) a copy of this repository and extract it to your organization's incident Dropbox or other shared folder.
 
 2. Rename the folder to `<Incident No> <County>`.
 
 3. Make the folder structure work for you; add, remove, and rename folders to fit your specific incident. These folders will likely start out sparse and gradually be filled in as the incident progresses.
 
-4. (Feedback)[https://github.com/appalachiansearchandrescue/incident-data-template/issues/new] is always appreciated!
+4. [Feedback](https://github.com/appalachiansearchandrescue/incident-data-template/issues/new) is always appreciated!
 
 Folder contents
 ---------------
@@ -40,4 +40,4 @@ Folder contents
 License
 -------
 
-This work is licensed under a (Creative Commons Attribution-ShareAlike 4.0 International License)[http://creativecommons.org/licenses/by-sa/4.0/].
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
